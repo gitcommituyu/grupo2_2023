@@ -1,5 +1,7 @@
 # https://gh.io/uyu23_3
 
+## grupo martes, jueves y viernes 14:30 - 17:30
+
 # https://github.com/gitcommituyu/grupo2_2023/issues/1 agrega tu nombre acá 
 
 
